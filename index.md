@@ -7,3 +7,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Entry 1
+- [ ] Entry 2
+- [x] Entry 3 fatta
